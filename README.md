@@ -1,7 +1,6 @@
-### Olá! Sou Letícia Queiroz 🎮🌙
+### Olá! Sou Letícia Queiroz 🌙
 
 - Estudante de Sistemas Para Internet na UNICAP
-- Interesse em front-end e desenvolvimento de jogos
 - Tecnologias: Javascript, ReactJS, NextJS, NodeJS
 - Pronomes: ela/dela
 
